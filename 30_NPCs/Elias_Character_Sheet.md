@@ -8,12 +8,12 @@ player_handout: true
 ---
 
 # Concept
-_A brief description of Elias as you envision him._
+A novelist and social chronicler from Athens, known for fictionalizing the gossip of high society. You've come to Tallulah Falls in the summer of 1909 to document the resort season, but have quickly become entangled in the conflict between the Georgia Power Company and the secrets of the gorge itself.
 
 # Stats (Cypher/OGoA)
-- Might: __ (Edge __)
-- Speed: __ (Edge __)
-- Intellect: __ (Edge __)
+- Might: 9 (Edge 0)
+- Speed: 12 (Edge 0)
+- Intellect: 15 (Edge 2)
 
 # Skills
 - 
