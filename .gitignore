@@ -1,0 +1,14 @@
+# Obsidian workspace noise
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*
+!.obsidian/plugins/dataview
+!.obsidian/plugins/templater-obsidian
+
+# macOS noise
+.DS_Store
+
+# Backups and temp
+*.tmp
+*.bak
+~$*
