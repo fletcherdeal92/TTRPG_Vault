@@ -57,9 +57,25 @@ Paste in short reference excerpts from **Old Gods of Appalachia** (Cypher) that 
 - Weirdness: minor supernatural quirk; mostly flavor but can have mechanical edge or drawback.
 
 **Cyphers**  
-- Limit: two *manifest* (physical) or three *subtle* (mental/spiritual) at a time.  
-- Identify with Intellect task; TN varies.  
-- Using a cypher usually destroys it.
+- **Tier-based Limits (total, any mix of manifest/subtle):**  
+  - Tier 1 → **2**  
+  - Tier 2 → **3**  
+  - Tier 3 → **4**  
+  - Tier 4 → **5**  
+  - Tier 5 → **6**  
+  - Tier 6 → **7**  
+  If acquiring one beyond your limit, discard or use one to make space.
+- **Identifying a Cypher:** Intellect task; difficulty set by the GM based on complexity/strangeness.  
+- **Using a Cypher:** Single-use; most are expended/destroyed on activation (some persist briefly per description).  
+- **Types:**  
+  - **Manifest:** Tangible items (charms, potions, relics, tools).  
+  - **Subtle:** Intangible effects (mental boosts, protective auras, sensory enhancements).  
+- **Selection:** GM rolls or chooses from OGoA cypher tables; reskinning to Appalachian horror is encouraged.  
+- **Design Note:** Cyphers are intentionally powerful to encourage use, not hoarding.
+
+**Campaign Examples (Reskinned, rules-aligned):**  
+- **Silver Tongue Brooch** *(subtle; reskin of an Influence-style cypher)* — Eases one persuasion or deception interaction by **2 steps**; single use.  
+- **Traveler’s Charm** *(subtle; reskin of a Pathfinder/navigation cypher)* — Grants **one automatic success** on a navigation/orientation/tracking task within 24 hours; single use.
 
 **Horror/Weird Elements**  
 - Use GM Intrusions to escalate dread or reveal hidden truths.  
