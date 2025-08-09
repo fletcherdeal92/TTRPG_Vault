@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "d2d1b067043335fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2576480485451bca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d162dddeec451d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_00_System/templates/template_session.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "template_session"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3f9577922999ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef554515d7357be1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49acfb9cfeaa47eb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1f3a0ae62f65d2c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6b278b20480f3530",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "336f506d025a9421",
+    "type": "split",
+    "children": [
+      {
+        "id": "e38f31038ccb347b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09b381e3ba56e72c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_00_System/templates/template_session.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for template_session"
+            }
+          },
+          {
+            "id": "ac10cac44efdae7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_00_System/templates/template_session.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from template_session"
+            }
+          },
+          {
+            "id": "f9b1056275be0acf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef2ce64739b45468",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_00_System/templates/template_session.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of template_session"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "9d162dddeec451d5",
+  "lastOpenFiles": [
+    "_00_System/templates/template_npc.md",
+    "_00_System/templates/template_location.md",
+    "_00_System/templates/template_artifact.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md"
+  ]
+}
