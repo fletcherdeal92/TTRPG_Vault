@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Whitaker_Letter.md",
+                "file": "02_Setting/Tallulah_Falls/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Whitaker_Letter"
+              "title": "Overview"
             }
           }
         ]
@@ -80,8 +80,8 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -167,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -191,26 +191,27 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9d162dddeec451d5",
+  "active": "49acfb9cfeaa47eb",
   "lastOpenFiles": [
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Player_Welcome_Packet.md",
-    "_00_System/templates/template_session.md",
-    "Campaign Dashboard.md",
-    "02_Setting/Tallulah_Falls/locations/Panther Creek.md",
-    "_00_System/templates/template_rules_dropbox.md",
-    "_00_System/templates/template_location.md",
-    "_00_System/templates/template_artifact.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Whitaker_Letter.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
-    "Faction Relationships.md",
-    "04_Reference/environmental_notes.md",
-    "04_Reference/historical_context_1920s.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_timeline.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Sessions/session_02_arrival_and_investigation.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Sessions/session_00.md",
-    "Untitled Kanban.md",
     "02_Setting/Tallulah_Falls/locations/Town of Tallulah Falls.md",
     "02_Setting/Tallulah_Falls/locations/The Cliff House.md",
-    "_00_System/templates/template_npc.md"
+    "02_Setting/Tallulah_Falls/Overview.md",
+    "02_Setting/Tallulah_Falls/Untitled.md",
+    "02_Setting/Tallulah_Falls/Overview.md",
+    "Photos/Town of tallulah falls_labeled_northArrow.png",
+    "01_Rules_OGoA/house_rules/Old Gods Whispers.md",
+    "01_Rules_OGoA/OGoA_Core_Rules_Ref.md",
+    "01_Rules_OGoA/House_Rules.md",
+    "02_Setting/Tallulah_Falls/locations/Panther Creek.md",
+    "Photos",
+    "New folder",
+    "CLAUDE.md",
+    "Faction Relationships.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
+    "_00_System/templates/template_artifact.md",
+    "_00_System/templates/template_npc.md",
+    "_00_System/templates/template_rules_dropbox.md",
+    "_00_System/templates/template_session.md",
+    "_00_System/templates/template_location.md"
   ]
 }
