@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/Town of Tallulah Falls.md",
+                "file": "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Whitaker_Letter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Town of Tallulah Falls"
+              "title": "Whitaker_Letter"
             }
           }
         ]
@@ -193,8 +193,11 @@
   },
   "active": "892825dd261796f0",
   "lastOpenFiles": [
-    "02_Setting/Tallulah_Falls/Overview.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Player_Welcome_Packet.md",
+    "04_Reference/artifacts/Whitaker's Research Notes.md",
+    "04_Reference/artifacts/Strange Geological Samples.md",
     "02_Setting/Tallulah_Falls/Town of Tallulah Falls.md",
+    "02_Setting/Tallulah_Falls/Overview.md",
     "01_Rules_OGoA/Reference_Tables.md",
     "01_Rules_OGoA/OGoA_Core_Rules_Ref.md",
     "01_Rules_OGoA/House_Rules.md",
@@ -226,9 +229,6 @@
     "Photos/Town of tallulah falls_labeled_northArrow.png",
     "01_Rules_OGoA/house_rules/Old Gods Whispers.md",
     "Photos",
-    "CLAUDE.md",
-    "Faction Relationships.md",
-    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
-    "_00_System/templates/template_artifact.md"
+    "CLAUDE.md"
   ]
 }

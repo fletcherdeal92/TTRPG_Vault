@@ -2,17 +2,18 @@
 type: location
 created: 2025-08-11
 updated: 2025-08-11
-tags: [location]
+tags:
+  - location
 region: Northeast Georgia Mountains
 settlement_type: town
 danger_level: 
-population: ~2000 (peak tourist season)
+population: 2000
 primary_industry: tourism
-old_gods_influence: 
+old_gods_influence:
 ---
 
 # Town of Tallulah Falls
-
+![[Town of tallulah falls_labeled_northArrow.png]]
 ## Description
 - **Physical layout:** 
 - **Atmosphere:** 
