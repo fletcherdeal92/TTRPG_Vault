@@ -1,20 +1,17 @@
 ---
 type: location
-created: 2025-08-10
-updated: 2025-08-10
-tags:
-  - location
-region: Northeast Georgia
-settlement_type: Township
-danger_level: safe
-population: 1000
-primary_industry: hospitality
-old_gods_influence: minor
+created: 2025-08-11
+updated: 2025-08-11
+tags: [location]
+region: Northeast Georgia Mountains
+settlement_type: homestead
+danger_level: 
+population: 
+primary_industry: 
+old_gods_influence: 
 ---
 
-# Untitled
-
-<% tp.file.cursor(1) %>
+# Pine Terrace
 
 ## Description
 - **Physical layout:** 
@@ -23,12 +20,14 @@ old_gods_influence: minor
 - **Local folklore:** 
 
 ## History & Background
-- **Founded/discovered:** 
+- **Founded/discovered:** Built 1879-1880 by Rufus Lafayette Moss Sr.
 - **Key events:** 
+  - 1879-1880: Construction as Moss family summer home
+  - Became town landmark
 - **Old Gods influence:** 
 
 ## Current Situation (1920s)
-- **Population:** 
+- **Population:** Moss family residence
 - **Primary industry:** 
 - **Leadership:** 
 - **Tensions/conflicts:** 

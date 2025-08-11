@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Reference/Historical Context/Tallulah_Falls_History.md",
+                "file": "02_Setting/Tallulah_Falls/Town of Tallulah Falls.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tallulah_Falls_History"
+              "title": "Town of Tallulah Falls"
             }
           }
         ]
@@ -193,29 +193,42 @@
   },
   "active": "892825dd261796f0",
   "lastOpenFiles": [
+    "02_Setting/Tallulah_Falls/Overview.md",
+    "02_Setting/Tallulah_Falls/Town of Tallulah Falls.md",
+    "01_Rules_OGoA/Reference_Tables.md",
+    "01_Rules_OGoA/OGoA_Core_Rules_Ref.md",
+    "01_Rules_OGoA/House_Rules.md",
+    "01_Rules_OGoA/house_rules/Social Interaction Difficulty.md",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Falls Dam.md",
+    "02_Setting/Tallulah_Falls/locations/Pine Terrace.md",
+    "02_Setting/Tallulah_Falls/locations/Panther Creek.md",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Falls Railroad Depot.md",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Gorge.md",
+    "02_Setting/Tallulah_Falls/locations/The Cliff House.md",
+    "02_Setting/Tallulah_Falls/npcs/Elmer Hutchins.md",
+    "02_Setting/Tallulah_Falls/npcs/Helen Dortch Longstreet.md",
+    "02_Setting/Tallulah_Falls/npcs/Martha Hutchins.md",
+    "02_Setting/Tallulah_Falls/npcs/Rufus Lafayette Moss Sr.md",
+    "02_Setting/Tallulah_Falls/npcs/Professor Whitaker.md",
     "04_Reference/Historical Context/Tallulah_Falls_History.md",
+    "02_Setting/Tallulah_Falls/npcs/Helen Dortch Longstreet.md.tmp.7338.1754879235518",
+    "02_Setting/Tallulah_Falls/npcs/Rufus Lafayette Moss Sr.md.tmp.7338.1754879228017",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Falls Railroad Depot.md.tmp.7338.1754879214511",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Falls Dam.md.tmp.7338.1754879198704",
+    "02_Setting/Tallulah_Falls/locations/Pine Terrace.md.tmp.7338.1754879179057",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Gorge.md.tmp.7338.1754879167327",
+    "02_Setting/Tallulah_Falls/locations/Town of Tallulah Falls.md.tmp.7338.1754879124300",
     "04_Reference/Historical Context/Tallulah_Falls_History.md.tmp.7338.1754878745890",
     "04_Reference/Historical Context",
     "04_Reference/Historical Context/Untitled.md",
-    "02_Setting/Tallulah_Falls/Overview.md",
     "04_Reference/historical_context_1920s.md",
-    "02_Setting/Tallulah_Falls/locations/Town of Tallulah Falls.md",
-    "02_Setting/Tallulah_Falls/locations/The Cliff House.md",
     "02_Setting/Tallulah_Falls/Untitled.md",
     "Photos/Town of tallulah falls_labeled_northArrow.png",
     "01_Rules_OGoA/house_rules/Old Gods Whispers.md",
-    "01_Rules_OGoA/OGoA_Core_Rules_Ref.md",
-    "01_Rules_OGoA/House_Rules.md",
-    "02_Setting/Tallulah_Falls/locations/Panther Creek.md",
     "Photos",
-    "New folder",
     "CLAUDE.md",
     "Faction Relationships.md",
     "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
-    "_00_System/templates/template_artifact.md",
-    "_00_System/templates/template_npc.md",
-    "_00_System/templates/template_rules_dropbox.md",
-    "_00_System/templates/template_session.md",
-    "_00_System/templates/template_location.md"
+    "_00_System/templates/template_artifact.md"
   ]
 }
