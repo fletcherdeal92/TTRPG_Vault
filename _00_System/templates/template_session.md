@@ -9,6 +9,9 @@ duration: # hours
 campaign: Written_in_Water
 adventure_arc: 
 players_present: []
+locations_visited: []
+npcs_encountered: []
+artifacts_discovered: []
 ---
 
 # Session <% tp.file.title %> - <Adventure Title>
@@ -39,24 +42,17 @@ players_present: []
 
 ## Locations Visited
 ```dataview
-TABLE without id file.link as "Location", danger_level as "Danger", notes as "Session Notes"
+TABLE without id file.link as "Location", location_type as "Type", danger_level as "Danger"
 FROM #location
-WHERE contains(this.file.frontmatter.locations_visited, file.name)
+WHERE contains(this.locations_visited, "[[" + file.name + "]]")
 ```
-
-**Manual list (for dataview):**
-- locations_visited: []
 
 ## NPCs Encountered
 ```dataview
-TABLE without id file.link as "NPC", faction as "Faction", trust_level as "Trust", interaction as "Interaction"
+TABLE without id file.link as "NPC", faction as "Faction", trust_level as "Trust"
 FROM #npc
-WHERE contains(this.file.frontmatter.npcs_encountered, file.name)
+WHERE contains(this.npcs_encountered, "[[" + file.name + "]]")
 ```
-
-**Manual list (for dataview):**
-- npcs_encountered: []
-- new_npcs_introduced: []
 
 ## Artifacts & Items
 ### Discovered This Session
@@ -68,7 +64,7 @@ WHERE contains(this.file.frontmatter.npcs_encountered, file.name)
 ```dataview
 TABLE without id file.link as "Item", type as "Type", current_location as "Now Located"
 FROM #artifact
-WHERE discovery_session = this.file.name
+WHERE contains(this.artifacts_discovered, "[[" + file.name + "]]")
 ```
 
 ## Key Events & Scenes

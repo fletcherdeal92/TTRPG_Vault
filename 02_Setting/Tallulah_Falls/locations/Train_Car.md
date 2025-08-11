@@ -1,21 +1,18 @@
 ---
 type: location
-created: <% tp.file.creation_date("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD") %>
-tags: [location]
-location_type: # settlement/building/room/landmark/natural_feature/transportation/supernatural_site
-parent_location: "[[]]"
-region: 
-settlement_type: # town/village/homestead/wilderness/supernatural
-danger_level: # safe/cautious/dangerous/cursed
-population: 
-primary_industry: 
-old_gods_influence: # none/minor/moderate/strong/overwhelming
-artifacts_found: []
-special_rules: []
+created: 2025-08-11
+updated: 2025-08-11
+tags:
+  - location
+region: Northeast Georgia Mountains
+settlement_type: transport
+danger_level: safe
+population: 40
+primary_industry: none
+old_gods_influence: minor
 ---
 
-# <% tp.file.title %>
+# Train_Car
 
 <% tp.file.cursor(1) %>
 
@@ -41,25 +38,11 @@ special_rules: []
 - **Local legends:** 
 - **Warning signs:** 
 
-## NPCs Present Here
+## Notable NPCs
 ```dataview
 TABLE without id file.link as "Name", faction as "Faction", trust_level as "Trust"
 FROM #npc
-WHERE current_location = "[[" + this.file.name + "]]"
-```
-
-## NPCs From Here
-```dataview
-TABLE without id file.link as "Name", faction as "Faction", current_location as "Currently At"
-FROM #npc
-WHERE home_location = "[[" + this.file.name + "]]"
-```
-
-## NPCs Who Visit Here
-```dataview
-TABLE without id file.link as "Name", faction as "Faction", trust_level as "Trust"
-FROM #npc
-WHERE contains(notable_locations, "[[" + this.file.name + "]]")
+WHERE location = this.file.name
 ```
 
 ## Artifacts & Items Found Here
@@ -73,7 +56,7 @@ WHERE current_location = this.file.name
 ```dataview
 TABLE without id file.link as "Session", date as "Date", summary as "What Happened"
 FROM #session
-WHERE contains(locations_visited, "[[" + this.file.name + "]]")
+WHERE contains(locations_visited, this.file.name)
 ```
 
 ## Connected Locations

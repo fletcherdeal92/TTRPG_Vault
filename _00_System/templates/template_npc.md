@@ -2,13 +2,17 @@
 type: npc
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 updated: <% tp.date.now("YYYY-MM-DD") %>
-tags: [npc]
-location: 
+tags:
+  - npc
+home_location: "[[]]"
+current_location: "[[]]"
+notable_locations: []
 faction: 
-trust_level: # hostile/wary/neutral/friendly/allied
-character_type: # local/outsider/supernatural/cultist/authority
-knowledge_level: # ignorant/suspicious/aware/involved/corrupted
-status: # alive/missing/dead/transformed
+trust_level: 
+character_type: 
+knowledge_level: 
+status:
+relationships: []
 ---
 
 # <% tp.file.title %>
@@ -34,11 +38,22 @@ status: # alive/missing/dead/transformed
 - **Secrets:** 
 - **What they know about the Old Gods:** 
 
+## Location Information
+**Home:** `=this.home_location`  
+**Currently at:** `=this.current_location`  
+**Notable places:** `=this.notable_locations`
+
+```dataview
+TABLE without id file.link as "Location", location_type as "Type", danger_level as "Safety"
+FROM #location
+WHERE "[[" + this.file.name + "]]" = current_location OR contains(notable_locations, "[[" + this.file.name + "]]") OR "[[" + this.file.name + "]]" = home_location
+```
+
 ## Relationships
 ```dataview
-TABLE without id file.link as "Connected NPC", relationship as "Relationship"
+TABLE without id file.link as "Connected NPC", faction as "Faction", trust_level as "Trust"
 FROM #npc
-WHERE contains(relationships, this.file.name)
+WHERE contains(relationships, "[[" + this.file.name + "]]")
 ```
 
 - **Allies:** 
@@ -56,7 +71,7 @@ WHERE contains(relationships, this.file.name)
 ```dataview
 TABLE without id file.link as "Session", date as "Date", role_played as "Role in Session"
 FROM #session
-WHERE contains(npcs_encountered, this.file.name)
+WHERE contains(npcs_encountered, "[[" + this.file.name + "]]")
 ```
 
 ## Mechanics
