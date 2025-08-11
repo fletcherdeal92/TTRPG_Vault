@@ -4,16 +4,22 @@ created: 2025-08-11
 updated: 2025-08-11
 tags:
   - location
-region: Northeast Georgia Mountains
-settlement_type: town
-danger_level: 
-population: 2000
-primary_industry: tourism
-old_gods_influence:
+location_type: transportation
+parent_location: "[[]]"
+region: Tallulah Falls
+settlement_type: none
+danger_level: safe
+population: 0
+primary_industry: none
+old_gods_influence: minor
+artifacts_found: []
+special_rules: []
 ---
 
-# Town of Tallulah Falls
-![[Town of tallulah falls_labeled_northArrow.png]]
+# Train Car
+
+<% tp.file.cursor(1) %>
+
 ## Description
 - **Physical layout:** 
 - **Atmosphere:** 
@@ -21,16 +27,13 @@ old_gods_influence:
 - **Local folklore:** 
 
 ## History & Background
-- **Founded/discovered:** European settlers named it c. 1820, incorporated October 7, 1885
+- **Founded/discovered:** 
 - **Key events:** 
-  - 1882: Tallulah Falls Railroad arrives
-  - 1885: Town incorporated, R.L. Moss Sr. founding commissioner
-  - 1913: Tallulah Falls Dam completed, waterfalls reduced to trickle
-- **Old Gods influence:** Cherokee called the falls "Ugunyi" and avoided the area
+- **Old Gods influence:** 
 
 ## Current Situation (1920s)
-- **Population:** ~2000 peak season, ~500 year-round
-- **Primary industry:** Tourism via railroad from Atlanta
+- **Population:** 
+- **Primary industry:** 
 - **Leadership:** 
 - **Tensions/conflicts:** 
 
@@ -39,11 +42,25 @@ old_gods_influence:
 - **Local legends:** 
 - **Warning signs:** 
 
-## Notable NPCs
+## NPCs Present Here
 ```dataview
 TABLE without id file.link as "Name", faction as "Faction", trust_level as "Trust"
 FROM #npc
-WHERE location = this.file.name
+WHERE current_location = link(this.file.name)
+```
+
+## NPCs From Here
+```dataview
+TABLE without id file.link as "Name", faction as "Faction", current_location as "Currently At"
+FROM #npc
+WHERE home_location = link(this.file.name)
+```
+
+## NPCs Who Visit Here
+```dataview
+TABLE without id file.link as "Name", faction as "Faction", trust_level as "Trust"
+FROM #npc
+WHERE contains(notable_locations, link(this.file.name))
 ```
 
 ## Artifacts & Items Found Here
@@ -57,12 +74,12 @@ WHERE current_location = this.file.name
 ```dataview
 TABLE without id file.link as "Session", date as "Date", summary as "What Happened"
 FROM #session
-WHERE contains(locations_visited, this.file.name)
+WHERE contains(locations_visited, "[[" + this.file.name + "]]")
 ```
 
 ## Connected Locations
 - **Roads/paths to:** 
-- **Travel time:** 4 hours by train from Atlanta
+- **Travel time:** 
 - **Travel dangers:** 
 
 ## Adventure Hooks

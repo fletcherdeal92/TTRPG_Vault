@@ -4,15 +4,20 @@ created: 2025-08-11
 updated: 2025-08-11
 tags:
   - npc
-current_location: Train_Car
-faction: 
-trust_level: neutral
+home_location: "[[Tallulah Falls]]"
+current_location: "[[Train Car]]"
+notable_locations:
+  - "[[Train Car]]"
+faction: Tallulah Falls Railway
+trust_level: friendly
 character_type: local
 knowledge_level: aware
 status: alive
+relationships:
 ---
 
 # Floyd Ramey
+
 **First Appearance:**  
 Floyd can be found in the train-car while the PCs make the journey into town. He can be found stationed at the Depot most times a train is in town. he lives in the worker part of town (to be described later)
 
@@ -34,12 +39,24 @@ Floyd can be found in the train-car while the PCs make the journey into town. He
 - **Secrets:** With all those years of listening to passengers and seeing people come and go, Floyd carries various secrets overheard during his work - information that might slip out when he's had some of Fate's moonshine.
 - **What they know about the Old Gods:** He's got stories to tell, but he just sees them as stories. Like his father, he's practical and has no time for "granny magic" and "stories" as he'd call them. To him, they are nothing but tall tales, though damned if he doesn't know most of them. "Woods have been scaring people for eternity, and these woods ain't any scarier than any others I've heard of."
 
+## Location Information
+**Home:** `=this.home_location`  
+**Currently at:** `=this.current_location`  
+**Notable places:** `=this.notable_locations`
+
+```dataview
+TABLE without id file.link as "Location", location_type as "Type", danger_level as "Safety"
+FROM #location
+WHERE "[[" + this.file.name + "]]" = current_location OR contains(notable_locations, "[[" + this.file.name + "]]") OR "[[" + this.file.name + "]]" = home_location
+```
+
 ## Relationships
 ```dataview
-TABLE without id file.link as "Connected NPC", relationship as "Relationship"
+TABLE without id file.link as "Connected NPC", faction as "Faction", trust_level as "Trust"
 FROM #npc
-WHERE contains(relationships, this.file.name)
+WHERE contains(relationships, "[[" + this.file.name + "]]")
 ```
+
 - **Allies:** Fellow railroad workers, long-time locals and full-timers who respect his service
 - **Rivals/Enemies:** None specific
 - **Family:** Aging mother and at least one brother still alive near Dillard; father died last year
@@ -55,7 +72,7 @@ WHERE contains(relationships, this.file.name)
 ```dataview
 TABLE without id file.link as "Session", date as "Date", role_played as "Role in Session"
 FROM #session
-WHERE contains(npcs_encountered, this.file.name)
+WHERE contains(npcs_encountered, "[[" + this.file.name + "]]")
 ```
 
 ## Mechanics
