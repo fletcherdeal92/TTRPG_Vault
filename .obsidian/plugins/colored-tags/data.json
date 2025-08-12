@@ -1,0 +1,50 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "custom",
+    "custom": "E74C3C-F39C12-B5756C-93A38A-7C9C9C-A29586-5A7A7A"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "rule": 1,
+    "location": 2,
+    "npc": 3,
+    "session": 4,
+    "artifact": 5,
+    "2B2A28": 6,
+    "4D4B48": 7,
+    "D4D1CC": 8,
+    "8A8782": 9,
+    "E6E4E0": 10,
+    "7C9C9C": 11,
+    "8CACAC": 12,
+    "93A38A": 13,
+    "B5A898": 14,
+    "F5F2EC": 15,
+    "E9E5DE": 16,
+    "3C3836": 17,
+    "5A7A7A": 18,
+    "72826A": 19,
+    "A29586": 20,
+    "665C54": 21,
+    "cosmic-horror": 22,
+    "ancient": 23,
+    "whisper": 24,
+    "eldritch": 25,
+    "trusted": 26,
+    "suspicious": 27,
+    "neutral": 28,
+    "untrusted": 29,
+    "danger": 30,
+    "nature": 31,
+    "safe": 32,
+    "mundane": 33,
+    "mystery": 34,
+    "investigation": 35
+  },
+  "_version": 3
+}

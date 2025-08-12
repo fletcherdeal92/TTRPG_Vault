@@ -11,20 +11,22 @@ settlement_type: none
 danger_level: safe
 population: 0
 primary_industry: none
-old_gods_influence: minor
-artifacts_found: []
-special_rules: []
+old_gods_influence: 
+artifacts_found: 
+special_rules:
 ---
 
 # Train Car
-
-<% tp.file.cursor(1) %>
+  Make every PCs introduction connect them to the scene and character. 
+  *i.e.* Mr. James Ellis, sits on a wooden bench, the sweltering summer sun hits his arm through the window he leans against as the steady rocking of the old TF nearly put him to sleep. It's been a while since he's been home.
+  
+  This is our introduction to the world. Westworld got it right when it starts you off on a train journey. There's something about being part of that. even in your head imagining taking that train can bridge the gap in our head and hearts. 
 
 ## Description
 - **Physical layout:** 
 - **Atmosphere:** 
 - **Notable features:** 
-- **Local folklore:** 
+- **Local folklore:**  
 
 ## History & Background
 - **Founded/discovered:** 

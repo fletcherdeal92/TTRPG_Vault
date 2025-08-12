@@ -1,0 +1,5 @@
+  - B5756C (reddish-brown) → #suspicious, #untrusted, #danger
+  - 93A38A (sage green) → #trusted, #nature, #safe
+  - 7C9C9C (slate blue) → #cosmic-horror, #ancient, #eldritch
+  - A29586 (sandy beige) → #neutral, #mundane, #artifact
+  - 5A7A7A (darker slate) → #whisper, #mystery, #investigation

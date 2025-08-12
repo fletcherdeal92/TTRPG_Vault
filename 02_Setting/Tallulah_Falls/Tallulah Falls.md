@@ -29,9 +29,9 @@ special_rules:
 ## History & Background
 - **Founded/discovered:** European settlers named it c. 1820, incorporated October 7, 1885
 - **Key events:** 
-  - 1882: Tallulah Falls Railroad arrives
-  - 1885: Town incorporated, R.L. Moss Sr. founding commissioner
-  - 1913: Tallulah Falls Dam completed, waterfalls reduced to trickle
+  - *1882:* Tallulah Falls Railroad arrives
+  - *1885:* Town incorporated, R.L. Moss Sr. founding commissioner
+  - *1913:* Tallulah Falls Dam completed, waterfalls reduced to trickle
 - **Old Gods influence:** Cherokee called the falls "Ugunyi" and avoided the area
 
 ## Current Situation (1920s)

@@ -1,0 +1,58 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": true,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": true,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showMoveFileIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": true,
+  "uncolorDrag": true,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": true,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": false,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "02_Setting/Tallulah_Falls/locations/Train Car.md": {
+      "icon": "lucide-train-track",
+      "color": "gray"
+    },
+    "_00_System/templates/template_artifact.md": {
+      "icon": "lucide-layout-template"
+    },
+    "_00_System/templates/template_location.md": {
+      "icon": "lucide-layout-template"
+    },
+    "_00_System/templates/template_npc.md": {
+      "icon": "lucide-layout-template"
+    },
+    "_00_System/templates/template_rules_dropbox.md": {
+      "icon": "lucide-layout-template"
+    },
+    "_00_System/templates/template_session.md": {
+      "icon": "lucide-layout-template"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [],
+  "folderRules": []
+}

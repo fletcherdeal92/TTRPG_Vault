@@ -1,0 +1,185 @@
+/*
+ * Palette: Gorge Overlook v1
+ * A refined, earthy theme with desaturated greens, blues, and neutrals.
+*/
+
+/* --- Step 1: Define all variables for the dark theme --- */
+.theme-dark {
+  /* --- Core Colors --- */
+  --background-primary: #2B2A28;
+  --background-secondary: #383734;
+  --background-modifier-border: #4D4B48;
+  --text-normal: #D4D1CC;
+  --text-muted: #8A8782;
+  --text-bright: #E6E4E0;
+
+  /* --- Text Formatting --- */
+  --bold-color: var(--color-sand);
+  --italic-color: var(--text-muted);
+  --strikethrough-color: #968984;
+  --h1-size: 2.25rem; /* 36px */
+  --h2-size: 1.75rem; /* 28px */
+  --h3-size: 1.5rem; /* 24px */
+  --h4-size: 1.25rem; /* 20px */
+  --h5-size: 1rem; /* 16px */
+  --h6-size: 0.875rem; /* 14px */
+
+  /* --- Accents --- */
+  --text-accent: #7C9C9C; /* Slate Blue */
+  --text-accent-hover: #8CACAC;
+  --color-sage: #93A38A; /* Sage Green */
+  --color-sand: #B5A898; /* Sandy Beige */
+  
+  /* --- Minimal Theme Specifics --- */
+  --accent-h: 180; /* Hue for Slate Blue */
+  --accent-s: 13%;
+  --accent-l: 55%;
+
+  /* --- MINIMAL THEME HEADER VARIABLES --- */
+  --h1-color: var(--text-accent);      /* Slate Blue */
+  --h2-color: var(--color-sage);       /* Sage Green */
+  --h3-color: var(--color-sage);       /* Sandy Beige */
+  --h4-color: var(--text-bright);      /* Bright Neutral */
+  --h5-color: var(--text-muted);       /* Muted Text */
+  --h6-color: var(--text-muted);       /* Muted Text */
+}
+
+/* --- Step 2: Apply structural styles for the dark theme --- */
+/* These rules are separate and correctly chained with .theme-dark */
+
+/* Style for nested list text */
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-2,
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-3,
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-4,
+.theme-dark .markdown-preview-view ul ul,
+.theme-dark .markdown-preview-view ol ol {
+  color: var(--text-muted);
+}
+
+/* Style for nested list bullets */
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-2 .list-bullet,
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-3 .list-bullet,
+.theme-dark .markdown-source-view .cm-s-obsidian .HyperMD-list-line-4 .list-bullet,
+.theme-dark .markdown-preview-view ul ul > li::before {
+  color: var(--color-sage);
+}
+
+/* Style for %%comments%% */
+.theme-dark .cm-s-obsidian span.cm-comment,
+.theme-dark .markdown-preview-view .comment {
+  color: var(--text-muted);
+  font-style: italic;
+  opacity: 0.85;
+}
+
+
+/* --- Step 3: Define variables for the light theme --- */
+.theme-light {
+  --background-primary: #F5F2EC;
+  --background-secondary: #E9E5DE;
+  --text-normal: #3C3836;
+  --text-accent: #5A7A7A;
+  --color-sage: #72826A;
+  --color-sand: #A29586;
+  --bold-color: var(--color-sand);
+  --italic-color: var(--color-sand);
+  --h1-color: var(--text-accent);
+  --h2-color: var(--color-sand);
+  --h3-color: var(--color-sand);
+  --h4-color: #3C3836;
+  --h5-color: #665C54;
+  --h6-color: #665C54;
+}
+
+/* ============================================= */
+/* TTRPG & Old Gods of Appalachia Enhancements */
+/* ============================================= */
+
+/* --- Stat Block Styling (Blockquotes) --- */
+.theme-dark .markdown-preview-view blockquote,
+.theme-dark .markdown-rendered blockquote {
+  border-left: 3px solid var(--color-sage);
+  background: rgba(147, 163, 138, 0.1);
+  padding: 10px 15px;
+  border-radius: 3px;
+  margin: 1em 0;
+}
+
+.theme-light .markdown-preview-view blockquote,
+.theme-light .markdown-rendered blockquote {
+  border-left: 3px solid var(--color-sage);
+  background: rgba(114, 130, 106, 0.1);
+  padding: 10px 15px;
+  border-radius: 3px;
+  margin: 1em 0;
+}
+
+/* --- Dice Notation Highlighting (Inline Code) --- */
+.theme-dark .markdown-preview-view code,
+.theme-dark .markdown-rendered code {
+  background: rgba(124, 156, 156, 0.2);
+  color: var(--text-accent);
+  border: 1px solid rgba(147, 163, 138, 0.3);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+.theme-light .markdown-preview-view code,
+.theme-light .markdown-rendered code {
+  background: rgba(90, 122, 122, 0.15);
+  color: var(--text-accent);
+  border: 1px solid rgba(114, 130, 106, 0.3);
+  border-radius: 3px;
+  padding: 2px 4px;
+}
+
+/* --- Session Header Styling --- */
+.theme-dark h1:contains("Session"),
+.theme-dark h1:contains("session") {
+  border-bottom: 2px solid var(--color-sage);
+  padding-bottom: 8px;
+  text-shadow: 0 0 8px rgba(124, 156, 156, 0.3);
+}
+
+.theme-light h1:contains("Session"),
+.theme-light h1:contains("session") {
+  border-bottom: 2px solid var(--color-sage);
+  padding-bottom: 8px;
+}
+
+/* --- Tag colors now handled by Colorful Tags plugin --- */
+/* Use this color palette in Colorful Tags plugin settings: */
+/* B5756C-93A38A-7C9C9C-A29586-5A7A7A */
+/* 
+Suggested mapping:
+- B5756C (reddish-brown): suspicious, untrusted, danger
+- 93A38A (sage green): trusted, nature, safe  
+- 7C9C9C (slate blue): cosmic-horror, ancient, eldritch
+- A29586 (sandy beige): neutral, mundane, artifact
+- 5A7A7A (darker slate): whisper, mystery, investigation
+*/
+
+/* --- Callout Styling --- */
+.theme-dark .callout[data-callout="handout"] {
+  border: 2px solid var(--color-sand);
+  background: rgba(181, 168, 152, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.theme-light .callout[data-callout="handout"] {
+  border: 2px solid var(--color-sand);
+  background: rgba(162, 149, 134, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.theme-dark .callout[data-callout="gm"] {
+  border-left: 4px solid var(--text-accent);
+  background: rgba(124, 156, 156, 0.1);
+  font-style: italic;
+}
+
+.theme-light .callout[data-callout="gm"] {
+  border-left: 4px solid var(--text-accent);
+  background: rgba(90, 122, 122, 0.1);
+  font-style: italic;
+}
