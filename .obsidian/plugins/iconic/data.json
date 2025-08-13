@@ -36,6 +36,9 @@
       "icon": "lucide-train-track",
       "color": "gray"
     },
+    "02_Setting/Tallulah_Falls/locations/Untitled.md": {
+      "icon": "lucide-map-pin"
+    },
     "_00_System/templates/template_artifact.md": {
       "icon": "lucide-layout-template"
     },
