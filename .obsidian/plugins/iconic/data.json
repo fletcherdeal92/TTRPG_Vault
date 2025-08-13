@@ -29,6 +29,9 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "02_Setting/Tallulah_Falls/locations/Depot.md": {
+      "icon": "lucide-map-pin"
+    },
     "02_Setting/Tallulah_Falls/locations/Train Car.md": {
       "icon": "lucide-train-track",
       "color": "gray"
