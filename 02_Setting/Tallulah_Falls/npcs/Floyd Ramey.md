@@ -8,6 +8,7 @@ home_location: "[[Tallulah Falls]]"
 current_location: "[[Train Car]]"
 notable_locations:
   - "[[Train Car]]"
+  - "[[Depot]]"
 faction: Tallulah Falls Railway
 trust_level: friendly
 character_type: local

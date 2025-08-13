@@ -15,10 +15,10 @@ old_gods_influence:
 artifacts_found: 
 special_rules:
 ---
-
+*Characters you can find here: Lodge Manager, House Keeper, Red Herring, Gambler in the evenings, various guests, tourists and staff*
 # Cliff House
-
-
+![[15 - CliffHouse_Porch.png]]
+The Cliff House is 
 ## Description
 - **Physical layout:** 
 - **Atmosphere:** 

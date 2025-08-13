@@ -1,28 +1,28 @@
 ---
 type: location
-created: 2025-08-12
-updated: 2025-08-12
+created: 2025-08-13
+updated: 2025-08-13
 tags:
   - location
-location_type: building
-parent_location: "[[Tallulah Falls]]"
+location_type: area
+parent_location: "[[Cliff House]]"
 region: Tallulah Falls
 settlement_type: none
-danger_level: safe
+danger_level: caution
 population: 
 primary_industry: 
 old_gods_influence: 
 artifacts_found: 
 special_rules:
 ---
-*Characters you can find here: Station Clerk, Floyd Ramey, Cargo Handler, various tourists milling from the trains and members of the regular "Welcome Party"*
-# Depot
 
-The Tallulah falls depot is; in a word, unimpressive, for the resort town that it serves. Its pine wooden walls rise up to meet the roof at a sharp angle. the roof overhangs the wooden platform with dark arched beams coming from the station. 
+# Cliff House - Overlook
+
+Leaving the Cliff House, if you look to the left (northish) along the front porch you would notice a well worn path to the open overlook of the gorge that the cliff house affords. If you look straight down you could just make out the far edge of what the locals call Hawthorne's Pool. Looking left you could just make out parts of the majestic L'Eau'D'or falls as it tumbles into the pool. Look left and you can see the water crest over hurricane falls. A path starts down the gorge, it is rugged, but pains have been made to take care of it and there seems to be some parts with wooden stairs. a sign to it's right say's Trail to Observation Tower
 
 ## Description
-- **Physical layout:** When looking at the station as you step off a north-bound train you notice to the left a window where the clerk office sits behind. You could speak to him to get a ticket further up the line to Clayton, or send off an urgent wire. To the right, under the second story gabled window, a large open door faces into the storage room for the depot various large boxes and parcels await for destinations unknown. If you were to walk left and turn the corner, you'd find a short set of stairs leading on to the "platform" though the tracks were feet away from it, negating it's usefulness. Through the door across those steps you would find a door that leads into the station's modest sitting room.
-- **Atmosphere:** In this cool, northeast Georgian, summer day the station feels like warmth and nostalgia. I+n across from the Cliff House makes the station even more lively with the 50 piece cliff house band  
+- **Physical layout:** 
+- **Atmosphere:** 
 - **Notable features:** 
 - **Local folklore:** 
 
