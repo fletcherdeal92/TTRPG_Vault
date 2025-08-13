@@ -29,15 +29,15 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "02_Setting/Tallulah_Falls/locations/Cliff House.md": {
+      "icon": "lucide-map-pin"
+    },
     "02_Setting/Tallulah_Falls/locations/Depot.md": {
       "icon": "lucide-map-pin"
     },
     "02_Setting/Tallulah_Falls/locations/Train Car.md": {
       "icon": "lucide-train-track",
       "color": "gray"
-    },
-    "02_Setting/Tallulah_Falls/locations/Untitled.md": {
-      "icon": "lucide-map-pin"
     },
     "_00_System/templates/template_artifact.md": {
       "icon": "lucide-layout-template"

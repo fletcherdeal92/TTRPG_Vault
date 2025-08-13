@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/locations/Depot.md",
+                "file": "02_Setting/Tallulah_Falls/locations/Cliff House.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Depot"
+              "title": "Cliff House"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/locations/Depot.md",
+                "file": "02_Setting/Tallulah_Falls/locations/Cliff House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Depot"
+              "title": "Backlinks for Cliff House"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "45bedb09955ffac6",
   "lastOpenFiles": [
-    "02_Setting/Tallulah_Falls/locations/Untitled.md",
     "02_Setting/Tallulah_Falls/locations/Depot.md",
+    "02_Setting/Tallulah_Falls/locations/Cliff House.md",
     "_00_System/templates/template_session.md",
     "02_Setting/Tallulah_Falls/locations/Train Car.md",
     "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
