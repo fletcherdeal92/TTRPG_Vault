@@ -11,12 +11,12 @@
             "id": "45bedb09955ffac6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "pdf",
               "state": {
-                "file": "Photos/01 - Tallulah Lodge.png"
+                "file": "01_Rules_OGoA/Old_Gods_Rules/OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz.pdf"
               },
-              "icon": "lucide-image",
-              "title": "01 - Tallulah Lodge"
+              "icon": "lucide-file-text",
+              "title": "OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz"
             }
           }
         ]
@@ -192,6 +192,7 @@
   },
   "active": "45bedb09955ffac6",
   "lastOpenFiles": [
+    "Photos/01 - Tallulah Lodge.png",
     "pages/contents.md",
     "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
     "04_Reference/environmental_notes.md",
@@ -237,7 +238,6 @@
     "02_Setting/Tallulah_Falls/locations/OLD/The Cliff House.md",
     "_00_System/templates/template_location.md.tmp.41529.1754946947460",
     "02_Setting/Tallulah_Falls/npcs/OLD/Floyd_Ramey.md",
-    "02_Setting/Tallulah_Falls/locations/OLD/Tallulah_Falls.md",
-    "02_Setting/Tallulah_Falls/npcs/OLD/Elmer_Hutchins.md"
+    "02_Setting/Tallulah_Falls/locations/OLD/Tallulah_Falls.md"
   ]
 }
