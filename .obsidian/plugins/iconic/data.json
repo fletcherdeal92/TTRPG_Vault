@@ -32,16 +32,31 @@
     "02_Setting/Maps/Rabun County.md": {
       "icon": "lucide-map"
     },
-    "02_Setting/Tallulah_Falls/locations/Cliff House - Overlook.md": {
+    "02_Setting/Tallulah_Falls/locations/Cannon's General Store.md": {
+      "icon": "lucide-map-pin"
+    },
+    "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House - Overlook.md": {
       "icon": "lucide-tree-pine"
     },
-    "02_Setting/Tallulah_Falls/locations/Cliff House.md": {
+    "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House.md": {
       "icon": "lucide-map-pin"
     },
     "02_Setting/Tallulah_Falls/locations/Depot.md": {
       "icon": "lucide-map-pin"
     },
-    "02_Setting/Tallulah_Falls/locations/Train Car.md": {
+    "02_Setting/Tallulah_Falls/locations/Glenbrook Cottage/Glenbrook Cottage.md": {
+      "icon": "lucide-map-pin"
+    },
+    "02_Setting/Tallulah_Falls/locations/Tallulah Falls School/Tallulah Falls School.md": {
+      "icon": "lucide-map-pin"
+    },
+    "02_Setting/Tallulah_Falls/locations/Tallulah Gorge/Tallulah Gorge.md": {
+      "icon": "lucide-trees"
+    },
+    "02_Setting/Tallulah_Falls/locations/Tallulah Lodge/Tallulah Lodge.md": {
+      "icon": "lucide-map-pin"
+    },
+    "02_Setting/Tallulah_Falls/locations/Transportation/Train Car.md": {
       "icon": "lucide-train-track",
       "color": "gray"
     },

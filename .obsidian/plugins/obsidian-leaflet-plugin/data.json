@@ -1,28 +1,184 @@
 {
   "mapMarkers": [
     {
-      "id": "RabunCounty",
-      "lastAccessed": 1755444751444,
+      "id": "TallulahFalls",
+      "lastAccessed": 1755449627898,
       "markers": [
         {
-          "id": "ID_e8c81bc93bfa",
+          "id": "ID_8b099a3ac908",
           "type": "default",
           "loc": [
-            1083.287588777791,
-            627.9108216936543
+            283.65625,
+            1266.25
           ],
-          "link": "Tallulah Falls",
-          "layer": "%5B%5BRabun_Map_New_MapScale.png%5D%5D",
+          "link": "Cliff House",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_98aa9888ca08",
+          "type": "default",
+          "loc": [
+            347.65625,
+            1109.25
+          ],
+          "link": "Depot",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5aeb4b998b08",
+          "type": "default",
+          "loc": [
+            1098,
+            260
+          ],
+          "link": "Tallulah Falls School",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
           "mutable": true,
           "command": false,
           "percent": [
-            0.4924790758381602,
-            -0.6565379325926005
+            0.13,
+            -0.732
           ],
-          "description": "",
+          "description": null,
           "minZoom": null,
           "maxZoom": null,
-          "tooltip": "never"
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_499b196bd9c8",
+          "type": "default",
+          "loc": [
+            1092,
+            1368
+          ],
+          "link": "Glenbrook Cottage",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.684,
+            -0.728
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a68fa796ac9",
+          "type": "default",
+          "loc": [
+            411.59375,
+            -143
+          ],
+          "link": "Tallulah Lodge",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1bba8bd829ca",
+          "type": "default",
+          "loc": [
+            520.0328433888816,
+            1927.5730855145287
+          ],
+          "link": "Tallulah Gorge",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b97af8ebe8ab",
+          "type": "default",
+          "loc": [
+            893.7829714197961,
+            1747.9679630931457
+          ],
+          "link": "Cannon's General Store",
+          "layer": "%5B%5BTown%20of%20tallulah%20falls_labeled_northArrow.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8739839815465729,
+            -0.595855314279864
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "02_Setting/Tallulah_Falls/Tallulah Falls.md"
+      ]
+    },
+    {
+      "id": "RabunCounty",
+      "lastAccessed": 1755449681295,
+      "markers": [
+        {
+          "id": "ID_4bab4a68c8d8",
+          "type": "default",
+          "loc": [
+            1004.8712162281889,
+            720.6482278724334
+          ],
+          "link": "Tallulah Lodge",
+          "layer": "%5B%5BRabun_Map_NewRail_Labeled.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.565214296370536,
+            -0.6090128583201145
+          ],
+          "description": null,
+          "minZoom": -1,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5929e98aeae9",
+          "type": "default",
+          "loc": [
+            1103.4401320416073,
+            619.7790937100089
+          ],
+          "link": "Tallulah Falls",
+          "layer": "%5B%5BRabun_Map_NewRail_Labeled.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],

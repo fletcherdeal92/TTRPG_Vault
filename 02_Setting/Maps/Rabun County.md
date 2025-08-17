@@ -32,5 +32,6 @@ zoomDelta: 0.25 ### Adjust how much the zoom changes when you zoom in or out.
 unit: mi ### The value displayed when measuring so you know what type of unit is being measure.  
 scale: 0.0075 ### Real units/px (resolution) of your map  
 recenter: false  
-darkmode: false ### marker
+darkmode: false ### markermarker: default,1099.4720629442318,614.2748313428385,Tallulah Falls,,,
+
 ```
