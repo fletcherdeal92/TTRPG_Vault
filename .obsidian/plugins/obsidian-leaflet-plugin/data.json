@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "RabunCounty",
-      "lastAccessed": 1755398663918,
+      "lastAccessed": 1755444751444,
       "markers": [
         {
           "id": "ID_e8c81bc93bfa",
@@ -77,7 +77,59 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 0.25,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "850px",
+    "image": "[[Rabun_Map_NewRail_Labeled.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Rabun_Map_NewRail_Labeled.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 2,
+    "minZoom": -2,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 0.0075,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.25,
+    "zoomFeatures": false,
+    "id": "RabunCounty",
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        3300,
+        2550
+      ]
+    ],
+    "width": "100%",
+    "lat": 1100,
+    "long": 625,
+    "unit": "mi",
+    "recenter": false,
+    "darkmode": false,
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

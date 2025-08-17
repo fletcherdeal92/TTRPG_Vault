@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/Tallulah Falls.md",
+                "file": "02_Setting/Maps/Rabun County.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tallulah Falls"
+              "title": "Rabun County"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "341808645099e6d1",
   "lastOpenFiles": [
+    "02_Setting/Tallulah_Falls/Tallulah Falls.md",
     "02_Setting/Maps/Rabun County.md",
     "_00_System/templates/template_artifact.md",
     "Photos/Rabun_Map_NewRail.png"
