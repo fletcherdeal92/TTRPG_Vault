@@ -13,12 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "02_Setting/Tallulah_Falls/Tallulah Falls.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
               "title": "Tallulah Falls"
+=======
+                "file": "01_Rules_OGoA/Old_Gods_Rules/OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz"
+>>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
             }
           }
         ]
@@ -194,6 +201,7 @@
   },
   "active": "45bedb09955ffac6",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "02_Setting/Maps/Rabun County.md",
     "02_Setting/Tallulah_Falls/Tallulah Falls.md",
     "Photos/Rabun_Map_New_MapScale.png",
@@ -212,7 +220,16 @@
     "01_Rules_OGoA/Reference_Tables.md",
     "01_Rules_OGoA/Old_Gods_Rules/Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf",
     "logseq/custom.css",
+=======
+    "Photos/01 - Tallulah Lodge.png",
+>>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
     "pages/contents.md",
+    "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
+    "04_Reference/environmental_notes.md",
+    "04_Reference/period_language_bits.md",
+    "01_Rules_OGoA/Old_Gods_Rules/Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf",
+    "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.md",
+    "logseq/custom.css",
     "pages",
     "logseq/config.edn",
     "journals",
@@ -221,14 +238,17 @@
     "01_Rules_OGoA/Old_Gods_Rules/Best Leave Them Ghosts Alone Nov 7 2023.pdf",
     "_00_System/theme_test.md",
     "_00_System/templates/template_session.md",
+<<<<<<< HEAD
     "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.md",
+=======
+    "01_Rules_OGoA/Reference_Tables.md",
+>>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
     "Untitled.canvas",
     "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf.markdown",
     "02_Setting/Tallulah_Falls/locations/Depot.md",
     "02_Setting/Tallulah_Falls/locations/Train Car.md",
     "Campaign Dashboard.md",
     "Faction Relationships.md",
-    "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
     "Photos/15 - CliffHouse_Porch.png",
     "Photos/07 - CliffHouse_HeadOn_Clear.png",
     "Photos/10 - GrandView_Ad.png",
@@ -239,6 +259,16 @@
     "_00_System/templates/template_npc.md",
     "Untitled Kanban.md",
     "Untitled Kanban 1.md",
+<<<<<<< HEAD
     "CLAUDE.md"
+=======
+    "_00_System/theme.css.md",
+    "02_Setting/Tallulah_Falls/Tallulah Falls.md",
+    "CLAUDE.md",
+    "02_Setting/Tallulah_Falls/locations/OLD/The Cliff House.md",
+    "_00_System/templates/template_location.md.tmp.41529.1754946947460",
+    "02_Setting/Tallulah_Falls/npcs/OLD/Floyd_Ramey.md",
+    "02_Setting/Tallulah_Falls/locations/OLD/Tallulah_Falls.md"
+>>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
   ]
 }
