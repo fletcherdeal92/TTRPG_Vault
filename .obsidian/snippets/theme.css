@@ -3,6 +3,9 @@
  * A refined, earthy theme with desaturated greens, blues, and neutrals.
 */
 
+body {
+    --file-line-width: 1200px; /* default RLL is 700px */ }
+
 /* --- Step 1: Define all variables for the dark theme --- */
 .theme-dark {
   /* --- Core Colors --- */

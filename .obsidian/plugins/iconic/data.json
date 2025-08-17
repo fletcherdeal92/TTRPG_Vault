@@ -29,6 +29,9 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "02_Setting/Maps/Rabun County.md": {
+      "icon": "lucide-map"
+    },
     "02_Setting/Tallulah_Falls/locations/Cliff House - Overlook.md": {
       "icon": "lucide-tree-pine"
     },
