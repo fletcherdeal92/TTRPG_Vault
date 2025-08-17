@@ -19,7 +19,7 @@ mapCalc1: 0.0075
 
 ```leaflet  
 id: RabunCounty ### Must be unique with no spaces  
-image: [[Rabun_Map_New_MapScale.png]] ### Link to the map image file. Do not add a ! in front of the image  
+image: [[Rabun_Map_NewRail_Labeled.png]] ### Link to the map image file. Do not add a ! in front of the image  
 bounds: [[0,0], [3300, 2550]] ### Size of the map in px Height_y, Width_x. Ignore 0,0  
 height: 850px ### Size of the leaflet embed in px on your screen  
 width: 100% ### Size of the leaflet embed in your note  

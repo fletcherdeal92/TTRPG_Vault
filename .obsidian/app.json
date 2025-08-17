@@ -1,15 +1,1 @@
-{
-  "showInlineTitle": true,
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "2",
-    "downscalePercent": 100
-  },
-<<<<<<< HEAD
-  "readableLineLength": true
-=======
-  "promptDelete": false
->>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
-}
+{}

@@ -1,31 +1,24 @@
 {
   "main": {
-    "id": "d2d1b067043335fc",
+    "id": "bc5dc8b0888b6870",
     "type": "split",
     "children": [
       {
-        "id": "e162c30544df6d58",
+        "id": "d7c6d0966d5bc0ae",
         "type": "tabs",
         "children": [
           {
-            "id": "45bedb09955ffac6",
+            "id": "341808645099e6d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "02_Setting/Tallulah_Falls/Tallulah Falls.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Tallulah Falls"
-=======
-                "file": "01_Rules_OGoA/Old_Gods_Rules/OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz"
->>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
             }
           }
         ]
@@ -34,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d3f9577922999ba6",
+    "id": "6401a54a2738e2da",
     "type": "split",
     "children": [
       {
-        "id": "ef554515d7357be1",
+        "id": "23b952f6bf7770c9",
         "type": "tabs",
         "children": [
           {
-            "id": "49acfb9cfeaa47eb",
+            "id": "627f1f828e0f9e80",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,12 +48,12 @@
             }
           },
           {
-            "id": "1f3a0ae62f65d2c0",
+            "id": "95916af3a078a784",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#npc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +65,7 @@
             }
           },
           {
-            "id": "6b278b20480f3530",
+            "id": "860fd5c7a3940382",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,36 +75,35 @@
             }
           },
           {
-            "id": "3fa6a19838d9ae67",
+            "id": "e6ca394352aa16f2",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 300
   },
   "right": {
-    "id": "336f506d025a9421",
+    "id": "7b3209ec3968c6db",
     "type": "split",
     "children": [
       {
-        "id": "e38f31038ccb347b",
+        "id": "47f67d9d7e66b5fa",
         "type": "tabs",
         "children": [
           {
-            "id": "09b381e3ba56e72c",
+            "id": "e1f7013363c87fdf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/locations/Cliff House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,25 +113,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cliff House"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ac10cac44efdae7c",
+            "id": "072db5447c0968e8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from campaign_overview"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f9b1056275be0acf",
+            "id": "1c4bb220e70d1b92",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,28 +145,27 @@
             }
           },
           {
-            "id": "ef2ce64739b45468",
+            "id": "0a476e62a6bf744c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of campaign_overview"
+              "title": "Outline"
             }
           },
           {
-            "id": "38ac479fdab609b5",
+            "id": "debae7d7387a9da5",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -199,76 +189,10 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "45bedb09955ffac6",
+  "active": "341808645099e6d1",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "02_Setting/Maps/Rabun County.md",
-    "02_Setting/Tallulah_Falls/Tallulah Falls.md",
-    "Photos/Rabun_Map_New_MapScale.png",
-    "02_Setting/Tallulah_Falls/locations/Cliff House.md",
-    "02_Setting/Tallulah_Falls/locations/Cliff House - Overlook.md",
-    "_00_System/theme.css.md",
-    "01_Rules_OGoA/house_rules/Old Gods Whispers.md",
-    "01_Rules_OGoA/Old_Gods_Rules/OGoA-Players-Guide-Hyperlinked-and-Bookmarked-2023-07-13-7y2tbz.pdf",
-    "_00_System/templates/template_map.md",
-    "02_Setting/Maps/Rabun County Map.md",
-    "_00_System/templates/template_leafletMap.md",
-    "Photos/Rabun_Map_New_updated.png",
-    "02_Setting/Maps",
-    "Photos/Town of tallulah falls_labeled_northArrow.png",
-    "_00_System/templates/template_rules_dropbox.md",
-    "01_Rules_OGoA/Reference_Tables.md",
-    "01_Rules_OGoA/Old_Gods_Rules/Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf",
-    "logseq/custom.css",
-=======
-    "Photos/01 - Tallulah Lodge.png",
->>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
-    "pages/contents.md",
-    "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
-    "04_Reference/environmental_notes.md",
-    "04_Reference/period_language_bits.md",
-    "01_Rules_OGoA/Old_Gods_Rules/Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf",
-    "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.md",
-    "logseq/custom.css",
-    "pages",
-    "logseq/config.edn",
-    "journals",
-    "logseq",
     "_00_System/templates/template_artifact.md",
-    "01_Rules_OGoA/Old_Gods_Rules/Best Leave Them Ghosts Alone Nov 7 2023.pdf",
-    "_00_System/theme_test.md",
-    "_00_System/templates/template_session.md",
-<<<<<<< HEAD
-    "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.md",
-=======
-    "01_Rules_OGoA/Reference_Tables.md",
->>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
-    "Untitled.canvas",
-    "Old-Gods-of-Appalachia-Hyperlinked-and-Bookmarked-2023-06-30-9bnjot.pdf.markdown",
-    "02_Setting/Tallulah_Falls/locations/Depot.md",
-    "02_Setting/Tallulah_Falls/locations/Train Car.md",
-    "Campaign Dashboard.md",
-    "Faction Relationships.md",
-    "Photos/15 - CliffHouse_Porch.png",
-    "Photos/07 - CliffHouse_HeadOn_Clear.png",
-    "Photos/10 - GrandView_Ad.png",
-    "Photos/11 - GrandView_Ad_2.png",
-    "Photos/12 - CliffHouse_SpeedLimit.png",
-    "Photos/13 - CliffHouse_ObservationTower.png",
-    "Photos/14 - CliffHouse_Exterior_FromNorth.png",
-    "_00_System/templates/template_npc.md",
-    "Untitled Kanban.md",
-    "Untitled Kanban 1.md",
-<<<<<<< HEAD
-    "CLAUDE.md"
-=======
-    "_00_System/theme.css.md",
-    "02_Setting/Tallulah_Falls/Tallulah Falls.md",
-    "CLAUDE.md",
-    "02_Setting/Tallulah_Falls/locations/OLD/The Cliff House.md",
-    "_00_System/templates/template_location.md.tmp.41529.1754946947460",
-    "02_Setting/Tallulah_Falls/npcs/OLD/Floyd_Ramey.md",
-    "02_Setting/Tallulah_Falls/locations/OLD/Tallulah_Falls.md"
->>>>>>> 6a7909c0b71e852ea621351de729dd5a91709a5f
+    "Photos/Rabun_Map_NewRail.png"
   ]
 }
