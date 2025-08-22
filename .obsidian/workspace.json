@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Setting/Tallulah_Falls/locations/Tallulah Lodge/Tallulah Lodge.md",
+                "file": "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tallulah Lodge"
+              "title": "Cliff House"
+            }
+          },
+          {
+            "id": "47ec3978c69a1a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Player_Welcome_Packet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player_Welcome_Packet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,6 +192,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,19 +205,35 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "cb85ecf63ef6ef5c",
+  "active": "47ec3978c69a1a72",
   "lastOpenFiles": [
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/RailRoad_Guide.pdf",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Name Suggestions.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Player_Welcome_Packet.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Character Creation Reference.md",
+    "Photos/Town of tallulah falls_labeled_northArrow.png",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Player Quick Reference.md",
+    "04_Reference/Historical Context/Name_Builder.md",
+    "01_Rules_OGoA/House_Rules.md",
+    "01_Rules_OGoA/OGoA_Core_Rules_Ref.md",
+    "01_Rules_OGoA/Reference_Tables.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Sessions/session_01.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_timeline.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/campaign_overview.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Sessions/session_02_arrival_and_investigation.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Sessions/session_00.md",
+    "03_Adventures/Written_in_Water/Adventure_1_The_Path_Below/Props/Whitaker_Letter.md",
+    "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House - Overlook.md",
+    "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House.md",
+    "02_Setting/Tallulah_Falls/locations/Glenbrook Cottage/Glenbrook Cottage.md",
+    "02_Setting/Tallulah_Falls/locations/Tallulah Lodge/Tallulah Lodge.md",
     "02_Setting/Maps/Rabun County.md",
     "02_Setting/Tallulah_Falls/Tallulah Falls.md",
-    "02_Setting/Tallulah_Falls/locations/Tallulah Lodge/Tallulah Lodge.md",
     "02_Setting/Tallulah_Falls/locations/Tallulah Falls School/Tallulah Falls School.md",
     "02_Setting/Tallulah_Falls/locations/Depot.md",
     "02_Setting/Tallulah_Falls/locations/Cannon's General Store.md",
-    "02_Setting/Tallulah_Falls/locations/Cliff House/Cliff House.md",
     "02_Setting/Tallulah_Falls/locations/Tallulah Gorge/Tallulah Gorge.md",
     "02_Setting/Tallulah_Falls/locations/Transportation/Train Car.md",
-    "02_Setting/Tallulah_Falls/npcs/Floyd Ramey.md",
-    "02_Setting/Tallulah_Falls/locations/Glenbrook Cottage/Glenbrook Cottage.md",
     "Photos/TF_School.jpg",
     "Photos/Tallulah_Falls_Painting_Town.jpg",
     "Photos/Int_Glenbrook_02.jpg",
@@ -211,19 +243,12 @@
     "Photos/01 - Tallulah Lodge.png",
     "Photos/13 - CliffHouse_ObservationTower.png",
     "Photos/11 - GrandView_Ad_2.png",
-    "Photos/05 - Tallulah_Lodge.png",
-    "Faction Relationships.md",
-    "CLAUDE.md",
-    "Campaign Dashboard.md",
-    "Tall.md",
     "02_Setting/Tallulah_Falls/locations/Tallulah Gorge/Untitled",
     "02_Setting/Tallulah_Falls/locations/Tallulah Gorge",
     "02_Setting/Tallulah_Falls/locations/Tallulah Falls School",
     "02_Setting/Tallulah_Falls/locations/Tallulah Lodge",
-    "_00_System/templates/template_location.md",
     "02_Setting/Tallulah_Falls/locations/Glenbrook Cottage",
     "02_Setting/Tallulah_Falls/locations/Transportation",
-    "02_Setting/Tallulah_Falls/locations/Cliff House",
-    "_00_System/templates/template_artifact.md"
+    "02_Setting/Tallulah_Falls/locations/Cliff House"
   ]
 }

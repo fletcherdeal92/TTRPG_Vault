@@ -66,6 +66,9 @@
     "_00_System/templates/template_location.md": {
       "icon": "lucide-layout-template"
     },
+    "_00_System/templates/template_map.md": {
+      "icon": "lucide-layout-template"
+    },
     "_00_System/templates/template_npc.md": {
       "icon": "lucide-layout-template"
     },
