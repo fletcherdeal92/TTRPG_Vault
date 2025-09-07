@@ -1,6 +1,6 @@
 [[Quick Reference]] - Quick reference sheet for basic Cypher System mechanics (just the core stuff - difficulty levels, effort, cyphers)
 [[Character Creation Reference]]
-- A "Tallulah Falls 1920 Visitor's Guide" with key locations, local customs, maybe some "don't miss" attractions
+- A [[RailRoad_Guide.pdf | 1920's Tourism Guide]] with key locations, local customs, maybe some "don't miss" attractions
 - [[Character Creation Reference]] - Simple character creation guidelines 
 - A timeline of recent events (Helen's campaign, railroad expansion, etc.)
 - [[Whitaker_Letter]] - personalized letters from Whitaker (genius idea!)
